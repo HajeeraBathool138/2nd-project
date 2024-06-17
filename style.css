@@ -913,7 +913,9 @@ section::-webkit-scrollbar {
 
 .ads {
     cursor: pointer;
-    margin: auto 23%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .movie {
@@ -2059,4 +2061,12 @@ section::-webkit-scrollbar {
     vertical-align: middle;
     white-space: nowrap;
     width: 218px;
+}
+
+label.menu-btn1 {
+    display: none;
+}
+
+input[type="checkbox"] {
+    display: none;
 }
