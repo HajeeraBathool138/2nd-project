@@ -36,7 +36,7 @@
         order: 3;
         flex-direction: column;
         padding: 9px 25px;
-        background: linear-gradient(45deg, white, black);
+        background: black;
         position: absolute;
         top: 90%;
         left: 0;
@@ -189,7 +189,7 @@
     .ht_title,
     .ht_title1 {
         align-items: center;
-        color: black;
+        color: white;
     }
 
     .mx_hamburger-container {
@@ -270,7 +270,7 @@
         order: 3;
         flex-direction: column;
         padding: 9px 25px;
-        background: linear-gradient(45deg, white, black);
+        background: black;
         position: absolute;
         top: 90%;
         left: 0;
@@ -332,7 +332,7 @@
     .ht_title,
     .ht_title1 {
         align-items: center;
-        color: black;
+        color: white;
     }
 
     .mx_hamburger-container {
@@ -375,7 +375,7 @@
 
     .hc_content {
         position: fixed;
-        top: 34.3rem;
+        top: 30.3rem;
         background: repeating-linear-gradient(0deg, white, black 100px);
         left: 0;
         bottom: 0;
@@ -401,7 +401,7 @@
 
     .hc_content {
         position: fixed;
-        top: 34.3rem;
+        top: 30.3rem;
         background: repeating-linear-gradient(0deg, white, black 100px);
         left: 0;
         bottom: 0;
