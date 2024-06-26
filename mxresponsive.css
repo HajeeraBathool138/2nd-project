@@ -223,9 +223,22 @@
     .download-app-floating {
         right: 0;
     }
+
+    .ht_menu,
+    .ht_menu1 {
+        transform: translateX(95%);
+        left: 0;
+    }
 }
 
 @media only screen and (min-width:576px) and (max-width:727px) {
+
+    .ht_menu,
+    .ht_menu1 {
+        transform: translateX(95%);
+        left: 0;
+    }
+
     .menu-2 img {
         width: fit-content;
     }
@@ -362,7 +375,7 @@
 
     .hc_content {
         position: fixed;
-        top: 30.3rem;
+        top: 34.3rem;
         background: repeating-linear-gradient(0deg, white, black 100px);
         left: 0;
         bottom: 0;
@@ -388,7 +401,7 @@
 
     .hc_content {
         position: fixed;
-        top: 30.3rem;
+        top: 34.3rem;
         background: repeating-linear-gradient(0deg, white, black 100px);
         left: 0;
         bottom: 0;
